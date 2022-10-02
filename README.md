@@ -9,7 +9,9 @@ My main focus being on the world of web development. Where I can craft clean and
   <a href="https://personal-portfolio-one-opal.vercel.app/"><img alt="All Repositories" title="My Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Portfolio-green?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-### 🔥My Top Repo's
+---
+
+## 🔥My Top Repo's
 
 <br/>
 <p align="left">
@@ -22,7 +24,10 @@ My main focus being on the world of web development. Where I can craft clean and
   <a href="https://github.com/CydoEntis?tab=repositories"><img alt="All Repositories" title="My Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-green?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
+---
+
 🧰 Languages and Tools
+
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
