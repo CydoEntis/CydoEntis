@@ -1,0 +1,4 @@
+.display-card:hover {
+  filter: brightness(85%);
+  transform: scale(1.1);
+}
