@@ -13,6 +13,7 @@
 ## 🔥My Top Repo's
 
 <br/>
+
 <p align="left">
   <a class="display-card" href="https://github.com/CydoEntis/MyAmiibos"><img width="278" src="./amiibo-list.png" alt="amiibo party"></a>
     <a class="display-card" href="https://github.com/CydoEntis/tapgames"><img width="278" src="./tap-games.png" alt="tap games home page"></a>
@@ -24,8 +25,9 @@
 </p>
 
 
-🧰 Languages and Tools
+## 🧰 Languages and Tools
 
+<br/>
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
