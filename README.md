@@ -8,11 +8,8 @@
   <a href="https://personal-portfolio-one-opal.vercel.app/"><img alt="All Repositories" title="My Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Portfolio-green?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
----
 
 ## 🔥My Top Repo's
-
-<br/>
 
 <p align="left">
   <a class="display-card" href="https://github.com/CydoEntis/MyAmiibos"><img width="278" src="./amiibo-list.png" alt="amiibo party"></a>
