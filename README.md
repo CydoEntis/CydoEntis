@@ -12,9 +12,13 @@
 ## 🔥My Top Repo's
 
 <p align="left">
-  <a class="display-card" href="https://github.com/CydoEntis/MyAmiibos"><img width="278" src="./amiibo-list.png" alt="amiibo party"></a>
+    <div>
+       <a class="display-card" href="https://github.com/CydoEntis/MyAmiibos"><img width="278" src="./amiibo-list.png" alt="amiibo party"></a>
+      <a href="https://github.com/CydoEntis/amiibo-party-frontend">Frontend</a>
+      <a href="https://github.com/CydoEntis/amiibo-party-backend">Backend</a>
+    </div>
     <a class="display-card" href="https://github.com/CydoEntis/tapgames"><img width="278" src="./tap-games.png" alt="tap games home page"></a>
-      <a class="display-card" href="https://github.com/CydoEntis/expensify"><img width="278" src="./expensify.png" alt="expensify dashboard"></a>
+    <a class="display-card" href="https://github.com/CydoEntis/expensify"><img width="278" src="./expensify.png" alt="expensify dashboard"></a>
 </p>
 
 <p align="left">
