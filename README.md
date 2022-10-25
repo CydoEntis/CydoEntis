@@ -11,7 +11,7 @@
 
 ## 🔥My Top Repo's
 
-<p align="left">
+<p align="left" styles="display: flex">
     <div>
        <a class="display-card" href="https://github.com/CydoEntis/MyAmiibos"><img width="278" src="./amiibo-list.png" alt="amiibo party"></a>
       <a href="https://github.com/CydoEntis/amiibo-party-frontend">Frontend</a>
