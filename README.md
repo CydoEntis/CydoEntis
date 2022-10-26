@@ -60,10 +60,10 @@
     </br>
 
 
-<img height="280" width="420" align="right" alt="GIF" src="./amiibo-list.png">
+<img height="320" width="540" align="right" alt="GIF" src="./amiibo-list.png">
 
-
-Track, collect, and wishlist all your current and future amiibos.
+Amiibo Party - The ultimate Amiibo Tracking App.
+Track, collect, and wishlist all current and future amiibos.
 
 <a href="mailto:ashutosh.saxena.2001@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
