@@ -17,13 +17,10 @@
       <a href="https://github.com/CydoEntis/amiibo-party-frontend">Frontend</a>
       <a href="https://github.com/CydoEntis/amiibo-party-backend">Backend</a>
     </div>
-    <div>
+  </div>
       <a class="display-card" href="https://github.com/CydoEntis/tapgames"><img width="278" src="./tap-games.png" alt="tap games home page"></a>
-    </div>
-    <div>
       <a class="display-card" href="https://github.com/CydoEntis/expensify"><img width="278" src="./expensify.png" alt="expensify dashboard"></a>
-    </div>  
-</div>
+
 
 <p align="left">
   <a href="https://github.com/CydoEntis?tab=repositories"><img alt="All Repositories" title="My Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-green?style=for-the-badge&logoColor=white&logo=repo"/></a>
