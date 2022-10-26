@@ -12,7 +12,7 @@
 ## 🔥My Top Repo's
 
 <p align="left" styles="display: flex">
-    <div style="display: flex">
+    <div valign="top">
       <a class="display-card" href="https://amiibo-party-frontend.vercel.app/"><img width="278" src="./amiibo-list.png" alt="amiibo party"></a>
       <a href="https://github.com/CydoEntis/amiibo-party-frontend">Frontend</a>
       <a href="https://github.com/CydoEntis/amiibo-party-backend">Backend</a>
