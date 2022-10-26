@@ -11,7 +11,7 @@
 
 ## 🔥My Top Repo's
 
-<div align="left">
+<div style="display: inline-block">
   <div>
    <a class="display-card" style="display: block" href="https://amiibo-party-frontend.vercel.app/"><img width="278" src="./amiibo-list.png" alt="amiibo party"></a>
    <div  style="display: flex; justify-center: flex-start;">
