@@ -60,7 +60,7 @@
     </br>
 
 
-<img height="320" width="640" align="right" alt="GIF" src="./amiibo-list.png">
+<img height="280" width="420" align="right" alt="GIF" src="./amiibo-list.png">
 
 
 Track, collect, and wishlist all your current and future amiibos.
