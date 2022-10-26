@@ -62,8 +62,8 @@
 
 
 # Amiibo Party
-<h3>Amiibo Party - The ultimate Amiibo Tracking App.</h3>
-<h3>Track, collect, and wishlist all current and future amiibos.</h3>
+<h4>The ultimate Amiibo Tracking App.
+Track, collect, and wishlist all current and future amiibos.</h4>
 
 <img height="320" width="540" align="right" alt="GIF" src="./amiibo-list.png">
 
