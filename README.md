@@ -12,35 +12,33 @@
 
 <div style="display: flex; justify-center: flex-start;">
   <div style="margin-right: .25rem; margin-bottom: .5rem">
-  <h5>Amiibo Party</h5>  
+    <h5>Amiibo Party</h5>
    <a class="display-card" style="display: block" href="https://amiibo-party-frontend.vercel.app/"><img width="278" src="./amiibo-list.png" alt="amiibo party"></a>
    <div style="display: flex; justify-content: space-between">
-      <a href="https://github.com/CydoEntis/amiibo-party-frontend"><img alt="All Repositories" title="Amiibo Party Frontend" src="https://custom-icon-badges.demolab.com/badge/-Frontend-green?style=for-the-badge&logoColor=white&logo=repo"/></a>
-      <a href="https://github.com/CydoEntis/amiibo-party-frontend"><img alt="All Repositories" title="Amiibo Party Frontend" src="https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo"/></a>
-      <!-- <a style="padding: .25rem; background-color: #97CA00; color: #fff" href="https://github.com/CydoEntis/amiibo-party-frontend">Frontend</a>
-      <a style="padding: .25rem; background-color: #97CA00; color: #fff" href="https://github.com/CydoEntis/amiibo-party-backend">Backend</a> -->
+      <a href="https://github.com/CydoEntis/amiibo-party-frontend"><img alt="Amiibo Party Front End" title="Amiibo Party Frontend" src="https://custom-icon-badges.demolab.com/badge/-Frontend-green?style=for-the-badge&logoColor=white&logo=repo"/></a>
+      <a href="https://github.com/CydoEntis/amiibo-party-frontend"><img alt="Amiibo Party Backend" title="Amiibo Party Backend" src="https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo"/></a>
    </div>
 </div>
 <div style="margin-right: .25rem; margin-bottom: .5rem">
-  <h5>Tap Games</h5> 
-     <a class="display-card" href="https://github.com/CydoEntis/tapgames"><img width="278" src="./tap-games.png" alt="tap games home page"></a>
+  <h5>Tap Games</h5>
+     <a class="display-card" href="https://tapgames-iq7l67tkd-cydoentis.vercel.app/"><img width="278" src="./tap-games.png" alt="tap games home page"></a>
     <div style="display: flex; justify-content: space-between">
-      <a style="padding: .25rem; background-color: #97CA00; color: #fff" href="https://github.com/CydoEntis/amiibo-party-frontend">Frontend</a>
-      <a style="padding: .25rem; background-color: #97CA00; color: #fff" href="https://github.com/CydoEntis/amiibo-party-backend">Backend</a>
+       <a href="https://github.com/CydoEntis/tapgames"><img alt="Tap Games Front End" title="Tap Games Frontend" src="https://custom-icon-badges.demolab.com/badge/-Frontend-green?style=for-the-badge&logoColor=white&logo=repo"/></a>
+      <!-- <a href="https://github.com/CydoEntis/amiibo-party-frontend"><img alt="All Repositories" title="Amiibo Party Frontend" src="https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo"/></a> -->
    </div>
 </div>
 <div style="margin-right: .25rem; margin-bottom: .5rem">
   <h5>Expensify</h5> 
-      <a class="display-card" href="https://github.com/CydoEntis/expensify"><img width="278" src="./expensify.png" alt="expensify dashboard"></a>
+      <a class="display-card" href="https://expensify-delta.vercel.app/"><img width="278" src="./expensify.png" alt="expensify dashboard"></a>
     <div  style="display: flex; justify-content: space-between">
-      <a style="padding: .25rem; background-color: #97CA00; color: #fff" href="https://github.com/CydoEntis/amiibo-party-frontend">Frontend</a>
-      <a style="padding: .25rem; background-color: #97CA00; color: #fff" href="https://github.com/CydoEntis/amiibo-party-backend">Backend</a>
+      <a href="https://github.com/CydoEntis/expensify"><img alt="Expensify Frontend" title="Expensify Frontend" src="https://custom-icon-badges.demolab.com/badge/-Frontend-green?style=for-the-badge&logoColor=white&logo=repo"/></a>
+      <!-- <a href="https://github.com/CydoEntis/amiibo-party-frontend"><img alt="All Repositories" title="Amiibo Party Frontend" src="https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo"/></a> -->
    </div>
 </div>
 </div>
 
 <p align="left">
-  <a href="https://github.com/CydoEntis?tab=repositories"><img alt="All Repositories" title="My Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-green?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/CydoEntis?tab=repositories"><img alt="All Repositories" title="My Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 ## 🧰 Languages and Tools
