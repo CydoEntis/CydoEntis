@@ -12,7 +12,8 @@
 
 <div style="display: flex; justify-center: flex-start;">
   <div style="margin-right: .25rem; margin-bottom: .5rem">
-    <h5>Amiibo Party</h5>
+    <h3>Amiibo Party</h3>
+    <p>Tracking all your amiibo's has never been so easy! Track, collect, wishlist all your current and upcoming amiibos. All kept in one place.</p>
    <a class="display-card" style="display: block" href="https://amiibo-party-frontend.vercel.app/"><img width="278" src="./amiibo-list.png" alt="amiibo party"></a>
    <div style="display: flex; justify-content: space-between">
       <a href="https://github.com/CydoEntis/amiibo-party-frontend"><img alt="Amiibo Party Front End" title="Amiibo Party Frontend" src="https://custom-icon-badges.demolab.com/badge/-Frontend-green?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -20,7 +21,8 @@
    </div>
 </div>
 <div style="margin-right: .25rem; margin-bottom: .5rem">
-  <h5>Tap Games</h5>
+  <h3>Tap Games</h3>
+  <p>Not sure what games to play or what you might like? Start swiping! We show you games, and u decided whether you like it or not! Don't worry we will track all the games you like and dislike.</p>
      <a class="display-card" href="https://tapgames-iq7l67tkd-cydoentis.vercel.app/"><img width="278" src="./tap-games.png" alt="tap games home page"></a>
     <div style="display: flex; justify-content: space-between">
        <a href="https://github.com/CydoEntis/tapgames"><img alt="Tap Games Front End" title="Tap Games Frontend" src="https://custom-icon-badges.demolab.com/badge/-Frontend-green?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -28,7 +30,8 @@
    </div>
 </div>
 <div style="margin-right: .25rem; margin-bottom: .5rem">
-  <h5>Expensify</h5> 
+  <h3>Expensify</h3>
+  <p>Having trouble keeping track of expenses? Just enter in each expense as you go and we will make sure you stay in budget.</p>
       <a class="display-card" href="https://expensify-delta.vercel.app/"><img width="278" src="./expensify.png" alt="expensify dashboard"></a>
     <div  style="display: flex; justify-content: space-between">
       <a href="https://github.com/CydoEntis/expensify"><img alt="Expensify Frontend" title="Expensify Frontend" src="https://custom-icon-badges.demolab.com/badge/-Frontend-green?style=for-the-badge&logoColor=white&logo=repo"/></a>
