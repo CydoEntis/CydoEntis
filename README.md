@@ -15,8 +15,10 @@
   <h5>Amiibo Party</h5>  
    <a class="display-card" style="display: block" href="https://amiibo-party-frontend.vercel.app/"><img width="278" src="./amiibo-list.png" alt="amiibo party"></a>
    <div style="display: flex; justify-content: space-between">
-      <a style="padding: .25rem; background-color: #97CA00; color: #fff" href="https://github.com/CydoEntis/amiibo-party-frontend">Frontend</a>
-      <a style="padding: .25rem; background-color: #97CA00; color: #fff" href="https://github.com/CydoEntis/amiibo-party-backend">Backend</a>
+      <a href="https://github.com/CydoEntis/amiibo-party-frontend"><img alt="All Repositories" title="Amiibo Party Frontend" src="https://custom-icon-badges.demolab.com/badge/-Frontend-green?style=for-the-badge&logoColor=white&logo=repo"/></a>
+      <a href="https://github.com/CydoEntis/amiibo-party-frontend"><img alt="All Repositories" title="Amiibo Party Frontend" src="https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo"/></a>
+      <!-- <a style="padding: .25rem; background-color: #97CA00; color: #fff" href="https://github.com/CydoEntis/amiibo-party-frontend">Frontend</a>
+      <a style="padding: .25rem; background-color: #97CA00; color: #fff" href="https://github.com/CydoEntis/amiibo-party-backend">Backend</a> -->
    </div>
 </div>
 <div style="margin-right: .25rem; margin-bottom: .5rem">
