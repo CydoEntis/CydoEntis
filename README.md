@@ -12,6 +12,17 @@
 
 <div style="display: flex; justify-center: flex-start;">
   <div style="margin-right: .25rem; margin-bottom: .5rem">
+    <h3>Blue Print</h3>
+    <p>Keep track of all your job applications, know which jobs you applied for and when or if you have an interview for them.</p>
+   <a class="display-card" style="display: block" href="https://amiibo-party-frontend.vercel.app/"><img width="278" src="./amiibo-list.png" alt="amiibo party"></a>
+   <div style="display: flex; justify-content: space-between">
+      <a href="https://github.com/CydoEntis/blueprint-client"><img alt="Blue Print  Front End" title="Blue Print Frontend" src="https://custom-icon-badges.demolab.com/badge/-Frontend-green?style=for-the-badge&logoColor=white&logo=repo"/></a>
+      <a href="https://github.com/CydoEntis/blueprint-api"><img alt="Blueprint Party Backend" title="Blueprint Backend" src="https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo"/></a>
+   </div>
+</div>
+
+<div style="display: flex; justify-center: flex-start;">
+  <div style="margin-right: .25rem; margin-bottom: .5rem">
     <h3>Amiibo Party</h3>
     <p>Tracking all your amiibo's has never been so easy! Track, collect, wishlist all your current and upcoming amiibos. All kept in one place.</p>
    <a class="display-card" style="display: block" href="https://amiibo-party-frontend.vercel.app/"><img width="278" src="./amiibo-list.png" alt="amiibo party"></a>
