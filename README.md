@@ -1,73 +1,12 @@
-# 🖥️ Cody Stine
+| 💫 **About Me:** | 🌐 **Socials:** |
+|:-----------------|:---------------|
+| 🖥️ I'm currently working on SideQwest<br>👯 I'm looking to collaborate with other developers<br>🤝 I'm looking to help others build their dream software<br>🌱 I'm currently learning C# and the .NET ecosystem<br>🗨️ Ask me about SideQwest and my other projects [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cody-stine-dev/)| ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) |
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ABF700&vCenter=true&width=435&lines=Software+Developer" alt="Typing SVG" /></a>
 
-#### I am a Software Developer that enjoys bringing my creations to life, all projects are planned, designed and built from the ground up to solve various day to day problems with code. My main focus being on the world of web development. Where I can craft clean and beautiful websites to help solve any business needs that I am presented with.
+| 💻 **Languages** | 💻 **Frameworks** | 💻 **Services** |
+|:-----------------|:------------------|:----------------|
+| ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) |
 
-<p align="left">
-  <a href="https://personal-portfolio-one-opal.vercel.app/"><img alt="All Repositories" title="My Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Portfolio-green?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
-## 🔥My Top Repo's
-
-<div style="display: flex; justify-center: flex-start;">
-  <div style="margin-right: .25rem; margin-bottom: .5rem">
-    <h3>Blue Print</h3>
-    <p>Keep track of all your job applications, know which jobs you applied for and when or if you have an interview for them.</p>
-   <a class="display-card" style="display: block" href="https://blueprint-nine.vercel.app/login"><img width="278" src="./bg.png" alt="blue print"></a>
-   <div style="display: flex; justify-content: space-between">
-      <a href="https://github.com/CydoEntis/blueprint-client"><img alt="Blue Print  Front End" title="Blue Print Frontend" src="https://custom-icon-badges.demolab.com/badge/-Frontend-green?style=for-the-badge&logoColor=white&logo=repo"/></a>
-      <a href="https://github.com/CydoEntis/blueprint-api"><img alt="Blueprint Party Backend" title="Blueprint Backend" src="https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo"/></a>
-   </div>
-</div>
-
-<div style="display: flex; justify-center: flex-start;">
-  <div style="margin-right: .25rem; margin-bottom: .5rem">
-    <h3>Amiibo Party</h3>
-    <p>Tracking all your amiibo's has never been so easy! Track, collect, wishlist all your current and upcoming amiibos. All kept in one place.</p>
-   <a class="display-card" style="display: block" href="https://amiibo-party-frontend.vercel.app/"><img width="278" src="./amiibo-list.png" alt="amiibo party"></a>
-   <div style="display: flex; justify-content: space-between">
-      <a href="https://github.com/CydoEntis/amiibo-party-frontend"><img alt="Amiibo Party Front End" title="Amiibo Party Frontend" src="https://custom-icon-badges.demolab.com/badge/-Frontend-green?style=for-the-badge&logoColor=white&logo=repo"/></a>
-      <a href="https://github.com/CydoEntis/amiibo-party-frontend"><img alt="Amiibo Party Backend" title="Amiibo Party Backend" src="https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo"/></a>
-   </div>
-</div>
-<div style="margin-right: .25rem; margin-bottom: .5rem">
-  <h3>Tap Games</h3>
-  <p>Not sure what games to play or what you might like? Start swiping! We show you games, and u decided whether you like it or not! Don't worry we will track all the games you like and dislike.</p>
-     <a class="display-card" href="https://tapgames-iq7l67tkd-cydoentis.vercel.app/"><img width="278" src="./tap-games.png" alt="tap games home page"></a>
-    <div style="display: flex; justify-content: space-between">
-       <a href="https://github.com/CydoEntis/tapgames"><img alt="Tap Games Front End" title="Tap Games Frontend" src="https://custom-icon-badges.demolab.com/badge/-Frontend-green?style=for-the-badge&logoColor=white&logo=repo"/></a>
-      <!-- <a href="https://github.com/CydoEntis/amiibo-party-frontend"><img alt="All Repositories" title="Amiibo Party Frontend" src="https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo"/></a> -->
-   </div>
-</div>
-<div style="margin-right: .25rem; margin-bottom: .5rem">
-  <h3>Expensify</h3>
-  <p>Having trouble keeping track of expenses? Just enter in each expense as you go and we will make sure you stay in budget.</p>
-      <a class="display-card" href="https://expensify-delta.vercel.app/"><img width="278" src="./expensify.png" alt="expensify dashboard"></a>
-    <div  style="display: flex; justify-content: space-between">
-      <a href="https://github.com/CydoEntis/expensify"><img alt="Expensify Frontend" title="Expensify Frontend" src="https://custom-icon-badges.demolab.com/badge/-Frontend-green?style=for-the-badge&logoColor=white&logo=repo"/></a>
-      <!-- <a href="https://github.com/CydoEntis/amiibo-party-frontend"><img alt="All Repositories" title="Amiibo Party Frontend" src="https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo"/></a> -->
-   </div>
-</div>
-</div>
-
-<p align="left">
-  <a href="https://github.com/CydoEntis?tab=repositories"><img alt="All Repositories" title="My Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
-## 🧰 Languages and Tools
-
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="HTML5" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="Vue" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Express" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img align="left" alt="Node" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Mongo DB" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="Redux" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Mui" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-<img align="left" alt="Mysql" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+| 📊 **GitHub Stats** |
+|:-------------------:|
+| ![](https://github-readme-stats.vercel.app/api?username=CydoEntis&theme=monokai&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=CydoEntis&theme=monokai&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CydoEntis&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact) ![](https://github-contributor-stats.vercel.app/api?username=CydoEntis&limit=5&theme=monokai&combine_all_yearly_contributions=true) |
