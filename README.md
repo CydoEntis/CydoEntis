@@ -67,3 +67,6 @@ Tracking all your amiibo's has never been so easy! Track, collect, wishlist all 
 </div>
 
 
+<picture>
+  <img alt="divider" src="./bubble-side-divider.svg" width="100%" height="120px" style="transform: scaleY(-1);" />
+</picture>
