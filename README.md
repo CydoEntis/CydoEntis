@@ -40,20 +40,20 @@
 
 ---
 
-# 🔥 My Top Repos
+# 🔥 My Latest Projects
 
-## [Blue Print](https://blueprint-nine.vercel.app/login)
+## [Party Up]()
 
-![Blue Print](./party-up.jpg)
+![Party Up](./party-up.jpg)
 Party up with friends and tackle quests, manage your projects in a fun and gamified way that takes the boring out of project management.
 
 <!-- [![Blue Print Front End](https://custom-icon-badges.demolab.com/badge/-Frontend-green?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/CydoEntis/blueprint-client)
 [![Blueprint Party Backend](https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/CydoEntis/blueprint-api) -->
 
-## [Amiibo Party](https://amiibo-party-frontend.vercel.app/)
+## [TypeCasters]()
 
 ![Type Casters](./typecasters.jpg)
-Get good at typing with a multiplayer spin, cast spells with your keyboard and defeat opponents to hone your typing skills.
+### Get good at typing with a multiplayer spin, cast spells with your keyboard and defeat opponents to hone your typing skills.
 
 <!-- [![Amiibo Party Front End](https://custom-icon-badges.demolab.com/badge/-Frontend-green?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/CydoEntis/amiibo-party-frontend)
 [![Amiibo Party Backend](https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/CydoEntis/amiibo-party-backend) -->
