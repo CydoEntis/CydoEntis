@@ -1,5 +1,5 @@
 <picture>
-  <img alt="divider" src="./bubble-side-divider.svg" />
+  <img alt="divider" src="./bubble-side-divider.png" />
 </picture>
 
 <picture>
