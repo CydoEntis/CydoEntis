@@ -2,12 +2,6 @@
   <img alt="divider" src="./cydosworkshop.jpg" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cydoentis/cydoentis/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cydoentis/cydoentis/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/cydoentis/cydoentis/output/github-snake.svg" />
-</picture>
-
 # 💫 About Me
 
 - 🖥️ I'm currently working on SideQwest
@@ -23,10 +17,11 @@
   </a>
 </div>
 
-
----
-
-![GitHub Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cydoentis/cydoentis/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cydoentis/cydoentis/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/cydoentis/cydoentis/output/github-snake.svg" />
+</picture>
 
 ---
 
@@ -69,4 +64,8 @@ Tracking all your amiibo's has never been so easy! Track, collect, wishlist all 
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CydoEntis&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Top Languages" style="height: 200px;"/>
   </div>
 </div>
+
+---
+
+![GitHub Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
