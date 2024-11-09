@@ -44,26 +44,26 @@
 
 ## [Blue Print](https://blueprint-nine.vercel.app/login)
 
-![Blue Print](./bg.png)
-Keep track of all your job applications, know which jobs you applied for and when or if you have an interview for them.
+![Blue Print](./party-up.jpg)
+Party up with friends and tackle quests, manage your projects in a fun and gamified way that takes the boring out of project management.
 
-[![Blue Print Front End](https://custom-icon-badges.demolab.com/badge/-Frontend-green?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/CydoEntis/blueprint-client)
-[![Blueprint Party Backend](https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/CydoEntis/blueprint-api)
+<!-- [![Blue Print Front End](https://custom-icon-badges.demolab.com/badge/-Frontend-green?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/CydoEntis/blueprint-client)
+[![Blueprint Party Backend](https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/CydoEntis/blueprint-api) -->
 
 ## [Amiibo Party](https://amiibo-party-frontend.vercel.app/)
 
-![Amiibo Party](./amiibo-list.png)
-Tracking all your amiibo's has never been so easy! Track, collect, wishlist all your current and upcoming amiibos. All kept in one place.
+![Type Casters](./typecasters.jpg)
+Get good at typing with a multiplayer spin, cast spells with your keyboard and defeat opponents to hone your typing skills.
 
-[![Amiibo Party Front End](https://custom-icon-badges.demolab.com/badge/-Frontend-green?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/CydoEntis/amiibo-party-frontend)
-[![Amiibo Party Backend](https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/CydoEntis/amiibo-party-backend)
+<!-- [![Amiibo Party Front End](https://custom-icon-badges.demolab.com/badge/-Frontend-green?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/CydoEntis/amiibo-party-frontend)
+[![Amiibo Party Backend](https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/CydoEntis/amiibo-party-backend) -->
 
 ---
 <div style="display: flex; gap: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=CydoEntis&theme=monokai&hide_border=false" alt="GitHub Streak Stats" style="height: 200px;"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CydoEntis&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Top Languages" style="height: 200px;"/>
 </div>
----
+
 
 
 
