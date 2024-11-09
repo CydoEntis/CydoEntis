@@ -45,7 +45,7 @@
 ## [Party Up]()
 
 ![Party Up](./party-up.jpg)
-Party up with friends and tackle quests, manage your projects in a fun and gamified way that takes the boring out of project management.
+### Party up with friends and tackle quests, manage your projects in a fun and gamified way that takes the boring out of project management.
 
 <!-- [![Blue Print Front End](https://custom-icon-badges.demolab.com/badge/-Frontend-green?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/CydoEntis/blueprint-client)
 [![Blueprint Party Backend](https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/CydoEntis/blueprint-api) -->
