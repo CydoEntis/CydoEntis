@@ -1,5 +1,5 @@
 <picture>
-  <img alt="divider" src="./bubble-side-divider.png" />
+  <img alt="divider" src="./cydosworkshop.jpg" />
 </picture>
 
 <picture>
@@ -62,11 +62,11 @@ Tracking all your amiibo's has never been so easy! Track, collect, wishlist all 
 
 ---
 <div style="display: flex; gap: 10px;">
+   <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=CydoEntis&theme=monokai&hide_border=false" alt="GitHub Streak Stats" style="height: 200px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CydoEntis&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Top Languages" style="height: 200px;"/>
+   </div>
+  <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CydoEntis&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Top Languages" style="height: 200px;"/>
+  </div>
 </div>
 
-
-<picture>
-  <img alt="divider" src="./bubble-side-divider-flipped.png" />
-</picture>
