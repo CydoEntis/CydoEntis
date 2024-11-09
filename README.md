@@ -59,13 +59,11 @@ Tracking all your amiibo's has never been so easy! Track, collect, wishlist all 
 [![Amiibo Party Backend](https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/CydoEntis/amiibo-party-backend)
 
 ---
-
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Cydoentis&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cydoentis&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+<div style="display: flex; gap: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CydoEntis&theme=monokai&hide_border=false" alt="GitHub Streak Stats" style="height: 200px;"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CydoEntis&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Top Languages" style="height: 200px;"/>
+</div>
 ---
-
 
 
 
