@@ -4,11 +4,11 @@
 
 # 💫 About Me
 
-- 🖥️ I'm currently working on SideQwest
+- 🖥️ I'm currently working on CollabParty
 - 👯 I'm looking to collaborate with other developers
 - 🤝 I'm looking to help others build their dream software
 - 🌱 I'm currently learning C# and the .NET ecosystem
-- 🗨️ Ask me about SideQwest and my other projects
+- 🗨️ Ask me about CollabParty and my other projects
 
 <div align="center">
   <p>Find Me On:</p>
@@ -39,24 +39,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
-
-# 🔥 My Latest Projects
-
-## [Party Up]()
-
-![Party Up](./party-up.jpg)
-### Party up with friends and tackle quests, manage your projects in a fun and gamified way that takes the boring out of project management.
-
-<!-- [![Blue Print Front End](https://custom-icon-badges.demolab.com/badge/-Frontend-green?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/CydoEntis/blueprint-client)
-[![Blueprint Party Backend](https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/CydoEntis/blueprint-api) -->
-
-## [TypeCasters]()
-
-![Type Casters](./typecasters.jpg)
-### Get good at typing with a multiplayer spin, cast spells with your keyboard and defeat opponents to hone your typing skills.
-
-<!-- [![Amiibo Party Front End](https://custom-icon-badges.demolab.com/badge/-Frontend-green?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/CydoEntis/amiibo-party-frontend)
-[![Amiibo Party Backend](https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/CydoEntis/amiibo-party-backend) -->
 
 ---
 <div style="display: flex; gap: 10px;">
