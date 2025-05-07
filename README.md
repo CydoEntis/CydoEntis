@@ -4,11 +4,10 @@
 
 # 💫 About Me
 
-- 🖥️ I'm currently working on CollabParty
+- 🖥️ I'm currently working on a .NET project scaffolding tool
 - 👯 I'm looking to collaborate with other developers
 - 🤝 I'm looking to help others build their dream software
 - 🌱 I'm currently learning C# and the .NET ecosystem
-- 🗨️ Ask me about CollabParty and my other projects
 
 <div align="center">
   <p>Find Me On:</p>
