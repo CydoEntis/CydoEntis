@@ -1,49 +1,21 @@
-# 💫 About Me
+# Hi 👋, I'm Cydo Entis
 
-### I'm Cydo Entis or Cody Stine if you unscramble the letters correctly 😎
-and I'm a full stack developer focused on simple, efficient, minimal code that just works
+### Building developer tools and web experiences that just work
 
-- 🖥️ I'm currently working on a self hostable auth service
-- 👯 I'm looking to collaborate with other developers
-- 🤝 I'm looking to help others build their dream software
-- 🌱 I'm currently improving my skills within the .NET ecosystem
+- 🔭 I'm currently working on **PupStack and ecosystem for building and shipping apps quickly with React and .NET**
 
-<div align="center">
-  <p>Find Me On:</p>
-  <a href="https://linkedin.com/in/cody-stine-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
+- 🌱 I'm currently learning **The .NET ecosystem**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cydoentis/cydoentis/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cydoentis/cydoentis/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/cydoentis/cydoentis/output/github-snake.svg" />
-</picture>
+- 💬 Ask me about **PupStack!**
 
----
+- 👨‍💻 All of my projects are available at **[https://www.codystine.com/](https://www.codystine.com/)**
 
-# 🧰 Tools
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/CydoEntis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="CydoEntis" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/cody-stine-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cody-stine-dev/" height="30" width="40" /></a>
+</p>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
----
-<div style="display: flex; gap: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CydoEntis&theme=monokai&hide_border=false" alt="GitHub Streak Stats" style="height: 200px;"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CydoEntis&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Top Languages" style="height: 200px;"/>
-</div>
-
-
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
